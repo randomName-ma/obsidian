@@ -5,7 +5,7 @@
 |      دراسة نظري |  دراسة نظري |      دراسة نظري |     دراسة نظري |      دراسة نظري |        دراسة نظري |     دراسة نظري |
 | mosh clean code | امور اضافية | mosh clean code | اضافي باك ايند | mosh clean code |                   | codeforces gym |
 |        مشروع ما |       react |        مشروع ما |          react |        مشروع ما |             react |       مشروع ما |
-|         english |             |         english |                |         english |                   |        english |
+|         english |             |         english |        english |         english |                   |        english |
 |                 |             |                 |                |                 | testing or devops |                |
 
 
@@ -19,3 +19,12 @@
 [[امور اضافية ]]
 
 اهداف : 
+**احتراف دوكر ولينكس وكل ما يتطلبه** **dev ops kuburnates and so on**
+
+**Be tester**
+
+**تعلم فرونت اند**  **رياكت**
+
+**تطوير الانكليزية**
+
+**التطور بلباك ايند**

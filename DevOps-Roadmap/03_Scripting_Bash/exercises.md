@@ -1,0 +1,3 @@
+# Exercises
+
+1. Write a backup script...
